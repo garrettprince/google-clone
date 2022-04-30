@@ -1,6 +1,6 @@
 # Google Clone
 > Built with Next, Tailwind CSS and the Google Search API. Based on Sonny Songha's Google Clone tutorial.
-> Live demo [_here_]().
+> Live demo [_here_](https://google-clone-vert-nu.vercel.app).
 
 ## Table of Contents
 * [General Info](#general-information)
