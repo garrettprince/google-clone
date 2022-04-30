@@ -81,7 +81,7 @@ export default function Home() {
           <button 
             onClick={search}
             className="btn">
-              I'm feeling lucky
+              I&apos;m feeling lucky
           </button>
         </div>
       </form>
